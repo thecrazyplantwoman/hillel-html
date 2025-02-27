@@ -5,11 +5,3 @@ body{
 a{
   text-decoration: none;
 }
-.phone{
-  color:#bface5;
-}
-.email{
-  color: #bface5;
-  text-decoration: underline;
-  text-decoration-style: dotted;
-}

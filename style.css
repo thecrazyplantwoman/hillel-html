@@ -3,7 +3,7 @@ body{
   font: 400 18px/28px Inter, sans-serif;
 }
 .buttons{
-  color:aquamarine;
+  color:rgb(5, 57, 40);
   display: flex;
   justify-content: left;
 }
