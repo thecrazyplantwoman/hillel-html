@@ -1,0 +1,35 @@
+body{
+  background-color: #acdce5;
+  font: 400 18px/28px Inter, sans-serif;
+}
+.buttons{
+  color:aquamarine;
+  display: flex;
+  justify-content: left;
+}
+.image1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header1{
+  text-align: center;
+  text-decoration: underline;
+}
+.first_par{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+.header{
+  text-transform: uppercase;
+}
+.second_par{
+  text-shadow: 2px 2px rgb(240, 221, 45);
+}
+.third_par{
+  letter-spacing: 5px;
+}
+.fourth_par{
+  background-color: yellow;
+}

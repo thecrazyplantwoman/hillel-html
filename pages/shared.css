@@ -1,0 +1,15 @@
+body{
+  background-color: #acdce5;
+  font: 400 18px/28px Inter, sans-serif;
+}
+a{
+  text-decoration: none;
+}
+.phone{
+  color:#bface5;
+}
+.email{
+  color: #bface5;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
